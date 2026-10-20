@@ -1,0 +1,156 @@
+<Products>
+    <Product id="1">
+        <Name>Mouse</Name>
+        <Details>
+            <Description>
+            Mouse Microsoft preto
+            </Description>
+            <Price>40.50</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>2</InStockQuantity>
+            <SoldQuantity>15</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190820T172030</ModificationDate>
+    </Product>
+    <Product id="5">
+        <Name>PenDrive 64gb</Name>
+        <Details>
+            <Description>
+            PenDrive de 64gb
+            </Description>
+            <Price>99.90</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>0</InStockQuantity>
+            <SoldQuantity>10</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190821T181000</ModificationDate>
+    </Product>
+    <Product id="2">
+        <Name>Teclado</Name>
+        <Details>
+            <Description>
+            Teclado Microsoft preto
+            </Description>
+            <Price>69.90</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>8</InStockQuantity>
+            <SoldQuantity>4</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190821T111800</ModificationDate>
+    </Product>
+    <Product id="3">
+        <Name>Monitor</Name>
+        <Details>
+            <Description>
+            Monitor Dell preto
+            </Description>
+            <Price>359.90</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>2</InStockQuantity>
+            <SoldQuantity>1</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190725T151802</ModificationDate>
+    </Product>
+    <Product id="4">
+        <Name>Gabinete</Name>
+        <Details>
+            <Description>
+            Gabinete Dell preto
+            </Description>
+            <Price>185.50</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>7</InStockQuantity>
+            <SoldQuantity>3</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190729T085828</ModificationDate>
+    </Product>
+    <Product id="1">
+        <Name>Mouse</Name>
+        <Details>
+            <Description>
+            Mouse Microsoft preto
+            </Description>
+            <Price>40.50</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>2</InStockQuantity>
+            <SoldQuantity>15</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190724T091258</ModificationDate>
+    </Product>
+    <Product id="5">
+        <Name>PenDrive 64gb</Name>
+        <Details>
+            <Description>
+            PenDrive de 64gb
+            </Description>
+            <Price>99.90</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>0</InStockQuantity>
+            <SoldQuantity>10</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190822T190042</ModificationDate>
+    </Product>
+    <Product id="6">
+        <Name>Cadeira</Name>
+        <Details>
+            <Description>
+            Cadeira Confortável
+            </Description>
+            <Price>210.90</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>9</InStockQuantity>
+            <SoldQuantity>1</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190819T131110</ModificationDate>
+    </Product>
+    <Product id="7">
+        <Name>HD Externo</Name>
+        <Details>
+            <Description>
+            HD Externo Samsung 1tb
+            </Description>
+            <Price>199.90</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>5</InStockQuantity>
+            <SoldQuantity>8</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190819T125807</ModificationDate>
+    </Product>
+    <Product id="8">
+        <Name>Hub USB</Name>
+        <Details>
+            <Description>
+            Hub USB 6 portas
+            </Description>
+            <Price>39.25</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>0</InStockQuantity>
+            <SoldQuantity>3</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190818T130511</ModificationDate>
+    </Product>
+    <Product id="9">
+        <Name>Carregador de Notebook Dell</Name>
+        <Details>
+            <Description>
+            Carregador de Notebook Dell muito bom
+            </Description>
+            <Price>160.00</Price>
+        </Details>
+        <SalesInformation>
+            <InStockQuantity>3</InStockQuantity>
+            <SoldQuantity>0</SoldQuantity>
+        </SalesInformation>
+        <ModificationDate>20190820T130752</ModificationDate>
+    </Product>
+</Products>
