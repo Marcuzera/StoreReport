@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
-using RelatorioLoja.Extensao;
-
-namespace RelatorioLoja.Modelo
+﻿namespace RelatorioLoja.Modelo
 {
     /// <summary>
     /// Modelo para operação referente aos produtos esgotados.

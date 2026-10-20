@@ -1,13 +1,8 @@
 ﻿using Newtonsoft.Json;
 using RelatorioLoja.Interface;
 using RelatorioLoja.Manipular;
-using RelatorioLoja.Modelo;
 using RelatorioLoja.Servico;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RelatorioLoja.Relatorio
 {

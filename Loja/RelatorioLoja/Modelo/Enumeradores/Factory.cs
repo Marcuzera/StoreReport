@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace RelatorioLoja.Modelo.Enumeradores
+﻿namespace RelatorioLoja.Modelo.Enumeradores
 {
     /// <summary>
     /// Tipos de relatórios correspondente a operação.

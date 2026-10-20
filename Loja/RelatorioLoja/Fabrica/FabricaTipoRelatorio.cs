@@ -1,11 +1,6 @@
 ﻿using RelatorioLoja.Excecao;
 using RelatorioLoja.Interface;
 using RelatorioLoja.Relatorio;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using RelatorioLoja.Modelo.Enumeradores;
 
 namespace RelatorioLoja.Fabrica
